@@ -340,7 +340,7 @@ margin-top: 40px;
 }
 footer{
     height: 580px;
-    width: 1545px;
+    max-width: 1545px;
     margin: 0 auto;
     display: flex;
     justify-content: space-between;
